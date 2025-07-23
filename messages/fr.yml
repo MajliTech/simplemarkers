@@ -1,0 +1,13 @@
+# These messages were machine-translated. They may be inaccurate.
+# Ces messages ont été traduits automatiquement. Ils peuvent contenir des erreurs.
+###
+# UTILISATION
+# Placez le contenu de ce fichier dans <dossier_du_serveur>/plugins/Markers/messages_fr_FR.yml
+
+no-permission: "&cTu n'as pas la permission d'utiliser cette commande."
+usage: "&cUtilisation : /sm <create|delete|list>"
+marker-created: "&a&lFait.&r&a Marqueur créé avec {count} ligne(s)."
+marker-deleted: "&a&lFait.&r&a {count} marqueur(s) supprimé(s)."
+no-marker-found: "&c&lAucun marqueur trouvé.&r&c Assure-toi d'être bien positionné dans le marqueur."
+warning-kill: "&c&lATTENTION : &rLes marqueurs disparaîtront si tu fais /kill @e."
+only-players: "&cSeuls les joueurs peuvent utiliser cette commande."

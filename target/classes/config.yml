@@ -1,0 +1,4 @@
+permissions:
+  use: true
+  create: true
+  delete: true

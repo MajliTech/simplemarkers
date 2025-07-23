@@ -1,0 +1,13 @@
+# These messages were machine-translated. They may be inaccurate.
+# Diese Nachrichten wurden maschinell übersetzt. Sie können ungenau sein.
+###
+# ANWENDUNG
+# Fügen Sie den Inhalt dieser Datei in den Ordner <Serverordner>/plugins/Markers/messages.yml ein.
+
+no-permission: "&cDu hast keine Berechtigung, diesen Befehl zu verwenden."
+usage: "&cVerwendung: /sm <create|delete|list>"
+marker-created: "&a&lFertig.&r&a Marker mit {count} Zeile(n) erstellt."
+marker-deleted: "&a&lFertig.&r&a {count} Marker gelöscht."
+no-marker-found: "&c&lKeine Marker gefunden.&r&c Bitte stelle sicher, dass du im Marker stehst."
+warning-kill: "&c&lACHTUNG: &rMarker verschwinden, wenn du /kill @e ausführst."
+only-players: "&cNur Spieler können diesen Befehl verwenden."

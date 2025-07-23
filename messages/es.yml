@@ -1,0 +1,13 @@
+# These messages were machine-translated. They may be inaccurate.
+# Estos mensajes fueron traducidos automáticamente. Pueden contener errores.
+###
+# USO
+# Coloca el contenido de este archivo en <carpeta_del_servidor>/plugins/Markers/messages_es_ES.yml
+
+no-permission: "&cNo tienes permiso para usar este comando."
+usage: "&cUso: /sm <create|delete|list>"
+marker-created: "&a&lListo.&r&a Se creó un marcador con {count} línea(s)."
+marker-deleted: "&a&lListo.&r&a Se eliminaron {count} marcador(es)."
+no-marker-found: "&c&lNo se encontraron marcadores.&r&c Asegúrate de estar parado dentro del marcador."
+warning-kill: "&c&lATENCIÓN: &rLos marcadores desaparecerán si usas /kill @e."
+only-players: "&cSolo los jugadores pueden usar este comando."

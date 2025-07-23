@@ -1,0 +1,10 @@
+# JAK UŻYWAĆ:
+# Wklej zawartośc tego pliku do <folder serwera>/plugins/SimpleMarkers/messages.yml
+
+no-permission: "&cBrak uprawnień."
+usage: "&cUżycie: "
+marker-created: "&a&lGotowe.&r&a Marker utworzony z {count} liniami."
+marker-deleted: "&a&lGotowe.&r&a Usunięto {count} markerów/marker."
+no-marker-found: "&c&lNie znaleziono markerów.&r&c Upewnij się że stoisz w swoim markerze."
+warning-kill: "&c&lUWAGA: &rMarkery ZNIKNĄ jeżeli uruchomiosz /kill @e."
+only-players: "&cTej komendy mogą używać tylko gracze."

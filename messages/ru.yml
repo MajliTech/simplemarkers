@@ -1,0 +1,13 @@
+# These messages were machine-translated. They may be inaccurate.
+# Эти сообщения были переведены автоматически. Они могут содержать ошибки.
+###
+# ИСПОЛЬЗОВАНИЕ
+# Поместите содержимое этого файла в <папка_сервера>/plugins/Markers/messages_ru_RU.yml
+
+no-permission: "&cУ тебя нет прав для использования этой команды."
+usage: "&cИспользование: /sm <create|delete|list>"
+marker-created: "&a&lГотово.&r&a Создан маркер с {count} строк(ами)."
+marker-deleted: "&a&lГотово.&r&a Удалено {count} маркер(ов)."
+no-marker-found: "&c&lМаркеры не найдены.&r&c Убедись, что ты стоишь внутри маркера."
+warning-kill: "&c&lВНИМАНИЕ: &rМаркеры исчезнут, если использовать /kill @e."
+only-players: "&cТолько игроки могут использовать эту команду."
