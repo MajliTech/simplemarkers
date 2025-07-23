@@ -1,4 +1,9 @@
-# SimpleMarkers
+<p align="center">
+  <img src="https://github.com/MajliTech/simplemarkers/blob/master/repoassets/logo.png?raw=true" width="256" height="256" alt="Logo!">
+</p>
+
+<h1 align="center">SimpleMarkers</h1>
+
 
 **SimpleMarkers** is a lightweight Spigot plugin for creating floating text markers using invisible armor stands.
 
@@ -7,7 +12,8 @@ Perfect for servers that need clean, non-intrusive in-world labels for events, z
 ---
 
 ## 📸 Screenshots
-Soon!
+![Example usage!](https://github.com/MajliTech/simplemarkers/blob/master/repoassets/example.gif?raw=true)
+![Wow!](https://github.com/MajliTech/simplemarkers/blob/master/repoassets/capabilities.png?raw=true)
 
 ---
 
