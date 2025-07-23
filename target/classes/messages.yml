@@ -1,7 +1,0 @@
-no-permission: "&cYou do not have permission to use this command."
-usage: "&cUsage: "
-marker-created: "&a&lDone.&r&a Marker created with {count} lines."
-marker-deleted: "&a&lDone.&r&a Deleted {count} marker(s)."
-no-marker-found: "&c&lNo markers found.&r&c Please ensure you are standing in your marker."
-warning-kill: "&c&lBEWARE: &rMarkers WILL disappear if you run /kill @e."
-only-players: "&cOnly players can use this command."

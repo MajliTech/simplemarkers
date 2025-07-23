@@ -1,9 +1,0 @@
-name: SimpleMarkers
-version: '1.0'
-main: pl.majlitech.simplemarkers.Main
-api-version: '1.13'
-commands:
-  sm:
-    description: SimpleMarkers command
-    usage: /<command>
-    aliases: [simplemarkers, sm, m, marker]
